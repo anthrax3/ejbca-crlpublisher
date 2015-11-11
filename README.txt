@@ -9,7 +9,7 @@ This is a solution that allows the publishing of CRLs to a remote host using EJB
 ~~~~ INSTALLATION (On Ubuntu 14.04, adjust to suit your environment but commands should work for most Linux distros) ~~~~
 
 # Change directory to project dir
-cd crlpublisher/
+cd ejbca-crlpublisher/
 sudo mkdir /etc/crlpublisher
 
 # Copy config file to /etc and the executable python script to /usr/local/bin
